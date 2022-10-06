@@ -31,9 +31,7 @@ Type the following commands on the terminal and take a snapshot of the output, p
 18. nload
 20. mail
 
-
-## 🌟 To Contribute
-1. 
+2. 
 
 Subnetting :
 
@@ -63,7 +61,9 @@ Show the output on the terminal/console for the following
 
 2) Show the valid host address range with starting and ending addresses.
 
-2. 
+## 🌟 To Contribute
+
+1. 
 Build a simple client-server system, where you use the client to chat with a server. The protocol between the client and server is as follows.
 
     The server is first started on a known port.
@@ -76,7 +76,7 @@ Build a simple client-server system, where you use the client to chat with a ser
     The client asks the user for the next message to send to the server.
 
 
-3. 
+2. 
 
 A chat room application in which each user first enters by giving his/her name and start sharing textual messages with all other users available in the chat room.
 
@@ -92,3 +92,5 @@ Here the application is to be implemented like a multithreaded two-way communica
 
 ## 🤖 Contributers
 [mr-sanskarjamadar](https://github.com/sanskarjamadar)
+[mr-shitij](https://github.com/mr-shitij)
+
