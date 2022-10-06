@@ -1,0 +1,24 @@
+
+Study of Linux Networking Commands:
+
+Type the following commands on the terminal and take a snapshot of the output, paste it into a word file and write a short description of the command.
+1. ifconfig
+2. ip
+3. traceroute
+4. tracepath
+5. ping
+6. netstat
+7. nslookup
+8. dig
+9. route
+10. Host
+11. arp
+12. iwconfig
+13. curl
+14. wget
+15. telnet
+16. whois
+17. ifplugstatus
+18. nload
+20. mail
+
