@@ -61,9 +61,7 @@ Show the output on the terminal/console for the following
 
 2) Show the valid host address range with starting and ending addresses.
 
-## 🌟 To Contribute
-
-1. 
+3.
 Build a simple client-server system, where you use the client to chat with a server. The protocol between the client and server is as follows.
 
     The server is first started on a known port.
@@ -75,8 +73,9 @@ Build a simple client-server system, where you use the client to chat with a ser
     The server must reply to the client.
     The client asks the user for the next message to send to the server.
 
+## 🌟 To Contribute
 
-2. 
+1. 
 
 A chat room application in which each user first enters by giving his/her name and start sharing textual messages with all other users available in the chat room.
 
@@ -93,4 +92,6 @@ Here the application is to be implemented like a multithreaded two-way communica
 ## 🤖 Contributers
 [mr-sanskarjamadar](https://github.com/sanskarjamadar)
 [mr-shitij](https://github.com/mr-shitij)
+[mr-pranavchoudhari](https://github.com/PranavChoudhari)
+
 
